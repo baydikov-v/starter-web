@@ -12,3 +12,7 @@ Some deploy process
 
 ## Introductions
 Some text here
+
+## Copyright
+
+Git Training
